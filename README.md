@@ -111,5 +111,3 @@ Test these endpoints using **Thunder Client** or **Postman**.
 ## 📜 License
 
 This project is for academic and demo purposes. You can modify and use it as needed.
-
-```
